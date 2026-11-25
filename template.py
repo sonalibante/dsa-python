@@ -1,12 +1,20 @@
 """
-PROBLEM    : <number> - <title>
-LINK       :
-PATTERN    :
-DIFFICULTY : easy / med / hard
+PROBLEM    : <title>
+LINK       : 
+DIFFICULTY : Easy / Medium / Hard
+SEQUENCE   : (outside NeetCode 250)
+PATTERN    :                         (your guess, before coding)
+
+STATEMENT  :
+  (paste from the link)
 
 TRIGGER    :
 APPROACH   :
-COMPLEXITY : time O( )   space O( )
+  brute    :
+  improved :
+COMPLEXITY :
+  brute    : time O( )   space O( )
+  improved : time O( )   space O( )
 
 MISTAKES   :
   -
@@ -19,7 +27,10 @@ REPS:
 
 
 class Solution:
-    def method_name(self):
+    def method_name_brute(self):
+        pass
+
+    def method_name_improved(self):
         pass
 
 

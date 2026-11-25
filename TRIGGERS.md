@@ -60,7 +60,7 @@ Read this file before an interview. Do not read the solutions.
 
 ---
 
-## 04. Stack
+## 04. Binary Search
 
 | Signal in the statement | Sub-pattern / variant | Canonical problem |
 | --- | --- | --- |
@@ -76,7 +76,7 @@ Read this file before an interview. Do not read the solutions.
 
 ---
 
-## 05. Binary Search
+## 05. Linked List
 
 | Signal in the statement | Sub-pattern / variant | Canonical problem |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Read this file before an interview. Do not read the solutions.
 
 ---
 
-## 06. Linked List
+## 06. Stack
 
 | Signal in the statement | Sub-pattern / variant | Canonical problem |
 | --- | --- | --- |
@@ -140,7 +140,7 @@ Read this file before an interview. Do not read the solutions.
 
 ---
 
-## 09. Heap / Priority Queue
+## 09. Backtracking
 
 | Signal in the statement | Sub-pattern / variant | Canonical problem |
 | --- | --- | --- |
@@ -156,7 +156,7 @@ Read this file before an interview. Do not read the solutions.
 
 ---
 
-## 10. Backtracking
+## 10. Heap / Priority Queue
 
 | Signal in the statement | Sub-pattern / variant | Canonical problem |
 | --- | --- | --- |
@@ -268,7 +268,7 @@ Read this file before an interview. Do not read the solutions.
 
 ---
 
-## 17. Math & Geometry
+## 17. Bit Manipulation
 
 | Signal in the statement | Sub-pattern / variant | Canonical problem |
 | --- | --- | --- |
@@ -284,7 +284,7 @@ Read this file before an interview. Do not read the solutions.
 
 ---
 
-## 18. Bit Manipulation
+## 18. Math & Geometry
 
 | Signal in the statement | Sub-pattern / variant | Canonical problem |
 | --- | --- | --- |
@@ -297,4 +297,3 @@ Read this file before an interview. Do not read the solutions.
 **Invariant to be able to state aloud:**
 
 **Edge cases this pattern always has:**
-

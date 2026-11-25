@@ -12,7 +12,7 @@ left untouched.
 
 INPUTS
 ------
-  patterns/<nn>_<name>/<nnnn>_<title>.py
+  patterns/<nn>_<name>/<easy|medium|hard>/<nn>_<title>.py
       Each file opens with a module docstring containing lines of the form
       "KEY : value", plus a REPS block of the form
           REPS:
@@ -31,7 +31,7 @@ REQUIRED BEHAVIOUR
 ------------------
 1. Discover pattern folders from the filesystem, not a hardcoded list, so a new
    folder appears in the table automatically. Sort by the numeric prefix.
-2. Per pattern, count: solved (files present, excluding .gitkeep), in rotation
+2. Per pattern, count: solved (files whose REPS block has a dated A1 line; all 250 files exist from the start), in rotation
    (latest log row status == "active"), retired (status == "retired").
 3. Median T1 per pattern, computed over first attempts only (attempt == 1).
    Median, not mean -- one 40-minute disaster should not move the number.

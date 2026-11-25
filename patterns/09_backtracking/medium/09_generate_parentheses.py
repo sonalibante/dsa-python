@@ -1,0 +1,38 @@
+"""
+PROBLEM    : Generate Parentheses
+LINK       : https://neetcode.io/problems/generate-parentheses/question
+DIFFICULTY : Medium
+SEQUENCE   : 122 / 250   (Backtracking #9)
+PATTERN    :                         (your guess, before coding)
+
+STATEMENT  :
+  (paste from the link)
+
+TRIGGER    :
+APPROACH   :
+  brute    :
+  improved :
+COMPLEXITY :
+  brute    : time O( )   space O( )
+  improved : time O( )   space O( )
+
+MISTAKES   :
+  -
+
+REVISIT    : yes / no
+
+REPS:
+  A1  <yyyy-mm-dd>  hint=   T  /  /    cold=
+"""
+
+
+class Solution:
+    def generate_parentheses_brute(self):
+        pass
+
+    def generate_parentheses_improved(self):
+        pass
+
+
+if __name__ == "__main__":
+    s = Solution()

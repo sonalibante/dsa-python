@@ -1,8 +1,19 @@
 # DSA in Python — NeetCode 250
 
-Pattern-first practice. Every problem is filed by the pattern it teaches, not by
-number, and every attempt is logged so that recognition speed and coding speed
-can be tracked separately.
+Two tracks in one repo:
+
+1. **`data_structures/`** — the CodeWithNishchal roadmap. For each data
+   structure, implement every operation yourself in `operations/` and keep a
+   short-notes file in `data_structures/short_notes/`. Roadmap order:
+   Array → String → Hashing → Stack → Queue → Linked List → Tree, then Heap,
+   Trie, Graph.
+2. **`patterns/`** — the NeetCode 250 list, in the same order and grouping as
+   [neetcode.io](https://neetcode.io/practice/practice/neetcode250). Every
+   problem file already exists. Solve them in the order of
+   [SEQUENCE.md](SEQUENCE.md).
+
+Every attempt is logged so that recognition speed and coding speed can be
+tracked separately.
 
 ---
 
@@ -10,13 +21,14 @@ can be tracked separately.
 
 Timeboxes: **easy 15 min · medium 25 min · hard 35 min.**
 
-1. Copy `template.py` into the correct pattern folder, named
-   `<4-digit number>_<snake_case_title>.py`. Fill `PROBLEM`, `LINK`,
-   `DIFFICULTY`. **Leave `PATTERN` blank.**
+1. Open the next unticked problem in `SEQUENCE.md`. Its file is already in
+   `patterns/<pattern>/<easy|medium|hard>/`. Paste the statement from the
+   NeetCode link into `STATEMENT`. **Leave `PATTERN` blank.**
 2. Start the timer. Read the statement.
 3. Before writing any code, fill `TRIGGER`, `PATTERN` (a guess), and `APPROACH`
    in plain English. **Stop T1 here.**
-4. Code until it first runs. **Stop T2.**
+4. Code the `_brute` method first, then the `_improved` method, until it
+   first runs. **Stop T2.**
 5. Debug until it passes. **Stop T3.**
 6. If stuck past the timebox — hint ladder:
    `hint=1` pattern name only, retry 10 min · `hint=2` watch the solution, close
@@ -24,7 +36,8 @@ Timeboxes: **easy 15 min · medium 25 min · hard 35 min.**
 7. Fill `COMPLEXITY`, `MISTAKES`, `REVISIT`. Append the `A1` line to `REPS`.
 8. Append one row to `log.csv`.
 9. Add a row to `TRIGGERS.md` only if a new tell was learned.
-10. `git add . && git commit -m "<number> <pattern>"`
+10. Tick the box in `SEQUENCE.md`.
+11. `git add . && git commit -m "<sequence #> <pattern>"`
 
 A wrong pattern guess is kept, never erased:
 `guessed: sliding window -> actually: two pointers`.
@@ -43,7 +56,7 @@ Reviews are scheduled **+1, +3, +7 days** from the first solve.
   move to a monthly sweep.
 - Re-solves are written from blank into `scratch.py` (gitignored). The committed
   file is overwritten only if the new version is genuinely better — one canonical
-  solution per problem.
+  brute + improved pair per problem.
 
 Daily volume target: **3–4 new + 3–5 reviews.**
 
@@ -68,21 +81,21 @@ Medium-difficulty targets by interview time: **T1 ≤ 3 · T2 ≤ 12 · T3 ≤ 5
 | 01 | Arrays & Hashing | | | | |
 | 02 | Two Pointers | | | | |
 | 03 | Sliding Window | | | | |
-| 04 | Stack | | | | |
-| 05 | Binary Search | | | | |
-| 06 | Linked List | | | | |
+| 04 | Binary Search | | | | |
+| 05 | Linked List | | | | |
+| 06 | Stack | | | | |
 | 07 | Trees | | | | |
 | 08 | Tries | | | | |
-| 09 | Heap / Priority Queue | | | | |
-| 10 | Backtracking | | | | |
+| 09 | Backtracking | | | | |
+| 10 | Heap / Priority Queue | | | | |
 | 11 | Graphs | | | | |
 | 12 | Advanced Graphs | | | | |
 | 13 | 1-D DP | | | | |
 | 14 | 2-D DP | | | | |
 | 15 | Greedy | | | | |
 | 16 | Intervals | | | | |
-| 17 | Math & Geometry | | | | |
-| 18 | Bit Manipulation | | | | |
+| 17 | Bit Manipulation | | | | |
+| 18 | Math & Geometry | | | | |
 | | **Total** | | | | |
 
 _Regenerated weekly by `tools/gen_readme.py`._
@@ -101,13 +114,23 @@ _Regenerated weekly by `tools/gen_readme.py`._
 ## Repo map
 
 ```
-patterns/          solutions, filed by pattern
-drills/            recognition drill log, weekly cold sessions
-tools/             gen_readme.py, due_today.py
-template.py        copy this for every new problem
-log.csv            one row per attempt, append-only
-TRIGGERS.md        statement signal -> pattern lookup table
+data_structures/              Nishchal roadmap track
+  short_notes/                one notes file per data structure
+  01_array/operations/        one file per operation, implement yourself
+  ... 10_graph/operations/
+  operation_template.py       copy for any extra operation
+patterns/                     NeetCode 250, one folder per pattern
+  01_arrays_hashing/
+    easy/ medium/ hard/       <nn>_<title>.py, nn = order within the pattern
+SEQUENCE.md                   all 250 problems in solve order, with checkboxes
+drills/                       recognition drill log, weekly cold sessions
+tools/                        gen_readme.py, due_today.py
+template.py                   for problems outside the NeetCode 250
+log.csv                       one row per attempt, append-only
+TRIGGERS.md                   statement signal -> pattern lookup table
 ```
+
+Every problem file has two methods: `<name>_brute` and `<name>_improved`.
 
 Pattern recognition lives in [TRIGGERS.md](TRIGGERS.md). Read it before an
 interview, not the solutions.
