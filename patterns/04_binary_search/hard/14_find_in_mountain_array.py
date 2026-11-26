@@ -1,6 +1,6 @@
 """
 PROBLEM    : Find in Mountain Array
-LINK       : https://neetcode.io/problems/find-in-mountain-array/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 058 / 250   (Binary Search #14)
 PATTERN    :                         (your guess, before coding)

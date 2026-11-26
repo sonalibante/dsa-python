@@ -1,6 +1,6 @@
 """
 PROBLEM    : Hand of Straights
-LINK       : https://neetcode.io/problems/hand-of-straights/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 215 / 250   (Greedy #9)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Minimum Array End
-LINK       : https://neetcode.io/problems/minimum-array-end/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 237 / 250   (Bit Manipulation #10)
 PATTERN    :                         (your guess, before coding)

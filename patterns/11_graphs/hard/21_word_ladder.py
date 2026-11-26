@@ -1,6 +1,6 @@
 """
 PROBLEM    : Word Ladder
-LINK       : https://neetcode.io/problems/word-ladder/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 163 / 250   (Graphs #21)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Transpose Matrix
-LINK       : https://neetcode.io/problems/transpose-matrix/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 241 / 250   (Math & Geometry #4)
 PATTERN    :                         (your guess, before coding)

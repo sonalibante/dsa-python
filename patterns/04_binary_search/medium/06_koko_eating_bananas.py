@@ -1,6 +1,6 @@
 """
 PROBLEM    : Koko Eating Bananas
-LINK       : https://neetcode.io/problems/eating-bananas/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 050 / 250   (Binary Search #6)
 PATTERN    :                         (your guess, before coding)

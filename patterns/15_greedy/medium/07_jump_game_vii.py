@@ -1,6 +1,6 @@
 """
 PROBLEM    : Jump Game VII
-LINK       : https://neetcode.io/problems/jump-game-vii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 213 / 250   (Greedy #7)
 PATTERN    :                         (your guess, before coding)

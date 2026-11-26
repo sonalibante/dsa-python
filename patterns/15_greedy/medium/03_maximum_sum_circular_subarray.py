@@ -1,6 +1,6 @@
 """
 PROBLEM    : Maximum Sum Circular Subarray
-LINK       : https://neetcode.io/problems/maximum-sum-circular-subarray/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 209 / 250   (Greedy #3)
 PATTERN    :                         (your guess, before coding)

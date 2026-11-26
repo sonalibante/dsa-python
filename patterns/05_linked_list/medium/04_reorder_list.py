@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reorder List
-LINK       : https://neetcode.io/problems/reorder-linked-list/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 062 / 250   (Linked List #4)
 PATTERN    :                         (your guess, before coding)

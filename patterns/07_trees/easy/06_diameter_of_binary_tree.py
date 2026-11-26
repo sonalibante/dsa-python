@@ -1,6 +1,6 @@
 """
 PROBLEM    : Diameter of Binary Tree
-LINK       : https://neetcode.io/problems/binary-tree-diameter/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 092 / 250   (Trees #6)
 PATTERN    :                         (your guess, before coding)

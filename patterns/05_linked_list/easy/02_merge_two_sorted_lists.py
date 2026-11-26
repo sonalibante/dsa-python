@@ -1,6 +1,6 @@
 """
 PROBLEM    : Merge Two Sorted Lists
-LINK       : https://neetcode.io/problems/merge-two-sorted-linked-lists/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 060 / 250   (Linked List #2)
 PATTERN    :                         (your guess, before coding)

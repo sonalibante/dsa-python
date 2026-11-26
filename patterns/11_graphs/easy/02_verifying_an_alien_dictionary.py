@@ -1,6 +1,6 @@
 """
 PROBLEM    : Verifying An Alien Dictionary
-LINK       : https://neetcode.io/problems/verifying-an-alien-dictionary/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 144 / 250   (Graphs #2)
 PATTERN    :                         (your guess, before coding)

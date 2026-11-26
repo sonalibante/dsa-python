@@ -1,6 +1,6 @@
 """
 PROBLEM    : Maximum Depth of Binary Tree
-LINK       : https://neetcode.io/problems/depth-of-binary-tree/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 091 / 250   (Trees #5)
 PATTERN    :                         (your guess, before coding)

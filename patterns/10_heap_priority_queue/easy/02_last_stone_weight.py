@@ -1,6 +1,6 @@
 """
 PROBLEM    : Last Stone Weight
-LINK       : https://neetcode.io/problems/last-stone-weight/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 132 / 250   (Heap / Priority Queue #2)
 PATTERN    :                         (your guess, before coding)

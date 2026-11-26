@@ -1,6 +1,6 @@
 """
 PROBLEM    : Sort Colors
-LINK       : https://neetcode.io/problems/sort-colors/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 012 / 250   (Arrays & Hashing #12)
 PATTERN    :                         (your guess, before coding)

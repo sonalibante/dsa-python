@@ -1,6 +1,6 @@
 """
 PROBLEM    : Two Sum II Input Array Is Sorted
-LINK       : https://neetcode.io/problems/two-integer-sum-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 029 / 250   (Two Pointers #7)
 PATTERN    :                         (your guess, before coding)

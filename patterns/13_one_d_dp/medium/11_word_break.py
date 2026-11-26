@@ -1,6 +1,6 @@
 """
 PROBLEM    : Word Break
-LINK       : https://neetcode.io/problems/word-break/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 184 / 250   (1-D Dynamic Programming #11)
 PATTERN    :                         (your guess, before coding)

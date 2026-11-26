@@ -1,6 +1,6 @@
 """
 PROBLEM    : Evaluate Reverse Polish Notation
-LINK       : https://neetcode.io/problems/evaluate-reverse-polish-notation/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 078 / 250   (Stack #6)
 PATTERN    :                         (your guess, before coding)

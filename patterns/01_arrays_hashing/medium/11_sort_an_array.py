@@ -1,6 +1,6 @@
 """
 PROBLEM    : Sort an Array
-LINK       : https://neetcode.io/problems/sort-an-array/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 011 / 250   (Arrays & Hashing #11)
 PATTERN    :                         (your guess, before coding)

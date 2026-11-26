@@ -1,6 +1,6 @@
 """
 PROBLEM    : Evaluate Division
-LINK       : https://neetcode.io/problems/evaluate-division/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 161 / 250   (Graphs #19)
 PATTERN    :                         (your guess, before coding)

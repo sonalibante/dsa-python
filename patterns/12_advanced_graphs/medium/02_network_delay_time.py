@@ -1,6 +1,6 @@
 """
 PROBLEM    : Network Delay Time
-LINK       : https://neetcode.io/problems/network-delay-time/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 165 / 250   (Advanced Graphs #2)
 PATTERN    :                         (your guess, before coding)

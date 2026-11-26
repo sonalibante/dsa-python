@@ -1,6 +1,6 @@
 """
 PROBLEM    : Jump Game
-LINK       : https://neetcode.io/problems/jump-game/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 211 / 250   (Greedy #5)
 PATTERN    :                         (your guess, before coding)

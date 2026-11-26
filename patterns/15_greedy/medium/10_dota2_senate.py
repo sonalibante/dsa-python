@@ -1,6 +1,6 @@
 """
 PROBLEM    : Dota2 Senate
-LINK       : https://neetcode.io/problems/dota2-senate/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 216 / 250   (Greedy #10)
 PATTERN    :                         (your guess, before coding)

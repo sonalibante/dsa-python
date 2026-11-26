@@ -1,6 +1,6 @@
 """
 PROBLEM    : Partition to K Equal Sum Subsets
-LINK       : https://neetcode.io/problems/partition-to-k-equal-sum-subsets/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 127 / 250   (Backtracking #14)
 PATTERN    :                         (your guess, before coding)

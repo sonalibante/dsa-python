@@ -1,6 +1,6 @@
 """
 PROBLEM    : Binary Search
-LINK       : https://neetcode.io/problems/binary-search/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 045 / 250   (Binary Search #1)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Simplify Path
-LINK       : https://neetcode.io/problems/simplify-path/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 083 / 250   (Stack #11)
 PATTERN    :                         (your guess, before coding)

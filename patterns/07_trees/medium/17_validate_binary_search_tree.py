@@ -1,6 +1,6 @@
 """
 PROBLEM    : Validate Binary Search Tree
-LINK       : https://neetcode.io/problems/valid-binary-search-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 103 / 250   (Trees #17)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Repeating Character Replacement
-LINK       : https://neetcode.io/problems/longest-repeating-substring-with-replacement/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 039 / 250   (Sliding Window #4)
 PATTERN    :                         (your guess, before coding)

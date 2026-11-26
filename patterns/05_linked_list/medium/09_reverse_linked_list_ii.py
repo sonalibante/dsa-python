@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reverse Linked List II
-LINK       : https://neetcode.io/problems/reverse-linked-list-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 067 / 250   (Linked List #9)
 PATTERN    :                         (your guess, before coding)

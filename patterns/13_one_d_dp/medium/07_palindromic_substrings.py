@@ -1,6 +1,6 @@
 """
 PROBLEM    : Palindromic Substrings
-LINK       : https://neetcode.io/problems/palindromic-substrings/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 180 / 250   (1-D Dynamic Programming #7)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Subtree of Another Tree
-LINK       : https://neetcode.io/problems/subtree-of-a-binary-tree/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 095 / 250   (Trees #9)
 PATTERN    :                         (your guess, before coding)

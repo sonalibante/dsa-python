@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Common Subsequence
-LINK       : https://neetcode.io/problems/longest-common-subsequence/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 194 / 250   (2-D Dynamic Programming #4)
 PATTERN    :                         (your guess, before coding)

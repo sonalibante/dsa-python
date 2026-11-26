@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reverse Bits
-LINK       : https://neetcode.io/problems/reverse-bits/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 232 / 250   (Bit Manipulation #5)
 PATTERN    :                         (your guess, before coding)

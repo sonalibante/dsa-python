@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Happy String
-LINK       : https://neetcode.io/problems/longest-happy-string/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 139 / 250   (Heap / Priority Queue #9)
 PATTERN    :                         (your guess, before coding)

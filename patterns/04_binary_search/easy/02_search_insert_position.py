@@ -1,6 +1,6 @@
 """
 PROBLEM    : Search Insert Position
-LINK       : https://neetcode.io/problems/search-insert-position/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 046 / 250   (Binary Search #2)
 PATTERN    :                         (your guess, before coding)

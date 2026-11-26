@@ -1,6 +1,6 @@
 """
 PROBLEM    : Design Circular Queue
-LINK       : https://neetcode.io/problems/design-circular-queue/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 068 / 250   (Linked List #10)
 PATTERN    :                         (your guess, before coding)

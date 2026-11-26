@@ -1,6 +1,6 @@
 """
 PROBLEM    : Valid Parenthesis String
-LINK       : https://neetcode.io/problems/valid-parenthesis-string/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 219 / 250   (Greedy #13)
 PATTERN    :                         (your guess, before coding)

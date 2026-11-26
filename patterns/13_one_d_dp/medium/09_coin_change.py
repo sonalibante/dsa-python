@@ -1,6 +1,6 @@
 """
 PROBLEM    : Coin Change
-LINK       : https://neetcode.io/problems/coin-change/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 182 / 250   (1-D Dynamic Programming #9)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Surrounded Regions
-LINK       : https://neetcode.io/problems/surrounded-regions/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 152 / 250   (Graphs #10)
 PATTERN    :                         (your guess, before coding)

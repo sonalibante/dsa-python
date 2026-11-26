@@ -1,6 +1,6 @@
 """
 PROBLEM    : 3Sum
-LINK       : https://neetcode.io/problems/three-integer-sum/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 030 / 250   (Two Pointers #8)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Consecutive Sequence
-LINK       : https://neetcode.io/problems/longest-consecutive-sequence/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 018 / 250   (Arrays & Hashing #18)
 PATTERN    :                         (your guess, before coding)

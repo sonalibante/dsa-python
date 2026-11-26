@@ -1,6 +1,6 @@
 """
 PROBLEM    : Maximum Product Subarray
-LINK       : https://neetcode.io/problems/maximum-product-subarray/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 183 / 250   (1-D Dynamic Programming #10)
 PATTERN    :                         (your guess, before coding)

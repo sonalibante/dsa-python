@@ -1,6 +1,6 @@
 """
 PROBLEM    : Majority Element II
-LINK       : https://neetcode.io/problems/majority-element-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 020 / 250   (Arrays & Hashing #20)
 PATTERN    :                         (your guess, before coding)

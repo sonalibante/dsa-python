@@ -1,6 +1,6 @@
 """
 PROBLEM    : Accounts Merge
-LINK       : https://neetcode.io/problems/accounts-merge/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 160 / 250   (Graphs #18)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Graph Valid Tree
-LINK       : https://neetcode.io/problems/valid-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 156 / 250   (Graphs #14)
 PATTERN    :                         (your guess, before coding)

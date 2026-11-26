@@ -1,6 +1,6 @@
 """
 PROBLEM    : Meeting Rooms III
-LINK       : https://neetcode.io/problems/meeting-rooms-iii/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 226 / 250   (Intervals #6)
 PATTERN    :                         (your guess, before coding)

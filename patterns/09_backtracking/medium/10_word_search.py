@@ -1,6 +1,6 @@
 """
 PROBLEM    : Word Search
-LINK       : https://neetcode.io/problems/search-for-word/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 123 / 250   (Backtracking #10)
 PATTERN    :                         (your guess, before coding)

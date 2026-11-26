@@ -1,6 +1,6 @@
 """
 PROBLEM    : N Queens
-LINK       : https://neetcode.io/problems/n-queens/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 128 / 250   (Backtracking #15)
 PATTERN    :                         (your guess, before coding)

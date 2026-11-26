@@ -1,6 +1,6 @@
 """
 PROBLEM    : Median of Two Sorted Arrays
-LINK       : https://neetcode.io/problems/median-of-two-sorted-arrays/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 057 / 250   (Binary Search #13)
 PATTERN    :                         (your guess, before coding)

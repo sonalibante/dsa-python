@@ -1,6 +1,6 @@
 """
 PROBLEM    : Kth Largest Element In a Stream
-LINK       : https://neetcode.io/problems/kth-largest-integer-in-a-stream/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 131 / 250   (Heap / Priority Queue #1)
 PATTERN    :                         (your guess, before coding)

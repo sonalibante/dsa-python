@@ -1,6 +1,6 @@
 """
 PROBLEM    : Minimum Window Substring
-LINK       : https://neetcode.io/problems/minimum-window-with-characters/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 043 / 250   (Sliding Window #8)
 PATTERN    :                         (your guess, before coding)

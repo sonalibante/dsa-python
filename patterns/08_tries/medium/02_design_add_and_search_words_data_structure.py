@@ -1,6 +1,6 @@
 """
 PROBLEM    : Design Add And Search Words Data Structure
-LINK       : https://neetcode.io/problems/design-word-search-data-structure/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 111 / 250   (Tries #2)
 PATTERN    :                         (your guess, before coding)

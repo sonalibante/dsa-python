@@ -1,6 +1,6 @@
 """
 PROBLEM    : Pacific Atlantic Water Flow
-LINK       : https://neetcode.io/problems/pacific-atlantic-water-flow/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 151 / 250   (Graphs #9)
 PATTERN    :                         (your guess, before coding)

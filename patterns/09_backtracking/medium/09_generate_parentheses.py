@@ -1,6 +1,6 @@
 """
 PROBLEM    : Generate Parentheses
-LINK       : https://neetcode.io/problems/generate-parentheses/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 122 / 250   (Backtracking #9)
 PATTERN    :                         (your guess, before coding)

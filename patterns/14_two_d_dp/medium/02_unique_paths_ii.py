@@ -1,6 +1,6 @@
 """
 PROBLEM    : Unique Paths II
-LINK       : https://neetcode.io/problems/unique-paths-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 192 / 250   (2-D Dynamic Programming #2)
 PATTERN    :                         (your guess, before coding)

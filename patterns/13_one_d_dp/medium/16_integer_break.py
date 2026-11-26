@@ -1,6 +1,6 @@
 """
 PROBLEM    : Integer Break
-LINK       : https://neetcode.io/problems/integer-break/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 189 / 250   (1-D Dynamic Programming #16)
 PATTERN    :                         (your guess, before coding)

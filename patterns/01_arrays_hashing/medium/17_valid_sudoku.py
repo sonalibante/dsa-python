@@ -1,6 +1,6 @@
 """
 PROBLEM    : Valid Sudoku
-LINK       : https://neetcode.io/problems/valid-sudoku/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 017 / 250   (Arrays & Hashing #17)
 PATTERN    :                         (your guess, before coding)

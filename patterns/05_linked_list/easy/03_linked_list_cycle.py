@@ -1,6 +1,6 @@
 """
 PROBLEM    : Linked List Cycle
-LINK       : https://neetcode.io/problems/linked-list-cycle-detection/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 061 / 250   (Linked List #3)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Merge K Sorted Lists
-LINK       : https://neetcode.io/problems/merge-k-sorted-linked-lists/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 071 / 250   (Linked List #13)
 PATTERN    :                         (your guess, before coding)

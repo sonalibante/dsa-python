@@ -1,6 +1,6 @@
 """
 PROBLEM    : Counting Bits
-LINK       : https://neetcode.io/problems/counting-bits/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 230 / 250   (Bit Manipulation #3)
 PATTERN    :                         (your guess, before coding)

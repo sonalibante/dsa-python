@@ -1,6 +1,6 @@
 """
 PROBLEM    : Construct Binary Tree From Preorder And Inorder Traversal
-LINK       : https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 105 / 250   (Trees #19)
 PATTERN    :                         (your guess, before coding)

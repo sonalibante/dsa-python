@@ -1,6 +1,6 @@
 """
 PROBLEM    : Minimum Path Sum
-LINK       : https://neetcode.io/problems/minimum-path-sum/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 193 / 250   (2-D Dynamic Programming #3)
 PATTERN    :                         (your guess, before coding)

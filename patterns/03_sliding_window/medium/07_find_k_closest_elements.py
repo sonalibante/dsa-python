@@ -1,6 +1,6 @@
 """
 PROBLEM    : Find K Closest Elements
-LINK       : https://neetcode.io/problems/find-k-closest-elements/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 042 / 250   (Sliding Window #7)
 PATTERN    :                         (your guess, before coding)

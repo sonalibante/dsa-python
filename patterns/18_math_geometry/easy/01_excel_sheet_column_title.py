@@ -1,6 +1,6 @@
 """
 PROBLEM    : Excel Sheet Column Title
-LINK       : https://neetcode.io/problems/excel-sheet-column-title/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 238 / 250   (Math & Geometry #1)
 PATTERN    :                         (your guess, before coding)

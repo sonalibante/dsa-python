@@ -1,6 +1,6 @@
 """
 PROBLEM    : Walls And Gates
-LINK       : https://neetcode.io/problems/islands-and-treasure/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 149 / 250   (Graphs #7)
 PATTERN    :                         (your guess, before coding)

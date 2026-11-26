@@ -1,6 +1,6 @@
 """
 PROBLEM    : Detect Squares
-LINK       : https://neetcode.io/problems/count-squares/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 250 / 250   (Math & Geometry #13)
 PATTERN    :                         (your guess, before coding)

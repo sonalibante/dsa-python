@@ -1,6 +1,6 @@
 """
 PROBLEM    : Boats to Save People
-LINK       : https://neetcode.io/problems/boats-to-save-people/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 034 / 250   (Two Pointers #12)
 PATTERN    :                         (your guess, before coding)

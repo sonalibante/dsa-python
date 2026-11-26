@@ -1,6 +1,6 @@
 """
 PROBLEM    : Multiply Strings
-LINK       : https://neetcode.io/problems/multiply-strings/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 249 / 250   (Math & Geometry #12)
 PATTERN    :                         (your guess, before coding)

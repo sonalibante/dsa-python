@@ -1,6 +1,6 @@
 """
 PROBLEM    : Valid Parentheses
-LINK       : https://neetcode.io/problems/validate-parentheses/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 074 / 250   (Stack #2)
 PATTERN    :                         (your guess, before coding)

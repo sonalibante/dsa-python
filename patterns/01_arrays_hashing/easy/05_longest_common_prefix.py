@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Common Prefix
-LINK       : https://neetcode.io/problems/longest-common-prefix/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 005 / 250   (Arrays & Hashing #5)
 PATTERN    :                         (your guess, before coding)

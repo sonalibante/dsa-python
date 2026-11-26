@@ -1,6 +1,6 @@
 """
 PROBLEM    : Design Twitter
-LINK       : https://neetcode.io/problems/design-twitter-feed/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 136 / 250   (Heap / Priority Queue #6)
 PATTERN    :                         (your guess, before coding)

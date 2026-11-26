@@ -1,6 +1,6 @@
 """
 PROBLEM    : Decode String
-LINK       : https://neetcode.io/problems/decode-string/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 084 / 250   (Stack #12)
 PATTERN    :                         (your guess, before coding)

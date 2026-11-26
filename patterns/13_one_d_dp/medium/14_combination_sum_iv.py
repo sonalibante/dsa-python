@@ -1,6 +1,6 @@
 """
 PROBLEM    : Combination Sum IV
-LINK       : https://neetcode.io/problems/combination-sum-iv/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 187 / 250   (1-D Dynamic Programming #14)
 PATTERN    :                         (your guess, before coding)

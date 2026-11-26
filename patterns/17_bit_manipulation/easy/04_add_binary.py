@@ -1,6 +1,6 @@
 """
 PROBLEM    : Add Binary
-LINK       : https://neetcode.io/problems/add-binary/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 231 / 250   (Bit Manipulation #4)
 PATTERN    :                         (your guess, before coding)

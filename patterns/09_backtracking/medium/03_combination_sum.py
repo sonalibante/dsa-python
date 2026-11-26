@@ -1,6 +1,6 @@
 """
 PROBLEM    : Combination Sum
-LINK       : https://neetcode.io/problems/combination-target-sum/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 116 / 250   (Backtracking #3)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Spiral Matrix
-LINK       : https://neetcode.io/problems/spiral-matrix/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 243 / 250   (Math & Geometry #6)
 PATTERN    :                         (your guess, before coding)

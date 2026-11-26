@@ -1,6 +1,6 @@
 """
 PROBLEM    : Implement Queue using Stacks
-LINK       : https://neetcode.io/problems/implement-queue-using-stacks/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 076 / 250   (Stack #4)
 PATTERN    :                         (your guess, before coding)

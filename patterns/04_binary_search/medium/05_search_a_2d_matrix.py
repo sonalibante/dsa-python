@@ -1,6 +1,6 @@
 """
 PROBLEM    : Search a 2D Matrix
-LINK       : https://neetcode.io/problems/search-2d-matrix/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 049 / 250   (Binary Search #5)
 PATTERN    :                         (your guess, before coding)

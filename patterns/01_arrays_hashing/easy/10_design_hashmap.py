@@ -1,6 +1,6 @@
 """
 PROBLEM    : Design HashMap
-LINK       : https://neetcode.io/problems/design-hashmap/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 010 / 250   (Arrays & Hashing #10)
 PATTERN    :                         (your guess, before coding)

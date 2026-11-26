@@ -1,6 +1,6 @@
 """
 PROBLEM    : Rotate Image
-LINK       : https://neetcode.io/problems/rotate-matrix/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 242 / 250   (Math & Geometry #5)
 PATTERN    :                         (your guess, before coding)

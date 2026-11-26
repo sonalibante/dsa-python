@@ -1,6 +1,6 @@
 """
 PROBLEM    : Trapping Rain Water
-LINK       : https://neetcode.io/problems/trapping-rain-water/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 035 / 250   (Two Pointers #13)
 PATTERN    :                         (your guess, before coding)

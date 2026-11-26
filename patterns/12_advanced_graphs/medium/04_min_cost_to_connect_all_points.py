@@ -1,6 +1,6 @@
 """
 PROBLEM    : Min Cost to Connect All Points
-LINK       : https://neetcode.io/problems/min-cost-to-connect-points/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 167 / 250   (Advanced Graphs #4)
 PATTERN    :                         (your guess, before coding)

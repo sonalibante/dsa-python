@@ -1,6 +1,6 @@
 """
 PROBLEM    : Subsets
-LINK       : https://neetcode.io/problems/subsets/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 115 / 250   (Backtracking #2)
 PATTERN    :                         (your guess, before coding)

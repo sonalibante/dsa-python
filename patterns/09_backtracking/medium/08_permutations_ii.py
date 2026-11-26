@@ -1,6 +1,6 @@
 """
 PROBLEM    : Permutations II
-LINK       : https://neetcode.io/problems/permutations-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 121 / 250   (Backtracking #8)
 PATTERN    :                         (your guess, before coding)

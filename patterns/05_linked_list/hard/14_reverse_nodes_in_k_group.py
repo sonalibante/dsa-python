@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reverse Nodes In K Group
-LINK       : https://neetcode.io/problems/reverse-nodes-in-k-group/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 072 / 250   (Linked List #14)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Remove Nth Node From End of List
-LINK       : https://neetcode.io/problems/remove-node-from-end-of-linked-list/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 063 / 250   (Linked List #5)
 PATTERN    :                         (your guess, before coding)

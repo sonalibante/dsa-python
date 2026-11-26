@@ -1,6 +1,6 @@
 """
 PROBLEM    : Online Stock Span
-LINK       : https://neetcode.io/problems/online-stock-span/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 081 / 250   (Stack #9)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Meeting Rooms II
-LINK       : https://neetcode.io/problems/meeting-schedule-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 225 / 250   (Intervals #5)
 PATTERN    :                         (your guess, before coding)

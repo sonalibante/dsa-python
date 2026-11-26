@@ -1,6 +1,6 @@
 """
 PROBLEM    : Capacity to Ship Packages Within D Days
-LINK       : https://neetcode.io/problems/capacity-to-ship-packages-within-d-days/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 051 / 250   (Binary Search #7)
 PATTERN    :                         (your guess, before coding)

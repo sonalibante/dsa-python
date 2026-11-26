@@ -1,6 +1,6 @@
 """
 PROBLEM    : Valid Anagram
-LINK       : https://neetcode.io/problems/is-anagram/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 003 / 250   (Arrays & Hashing #3)
 PATTERN    :                         (your guess, before coding)

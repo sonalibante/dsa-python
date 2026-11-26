@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Increasing Path In a Matrix
-LINK       : https://neetcode.io/problems/longest-increasing-path-in-matrix/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 202 / 250   (2-D Dynamic Programming #12)
 PATTERN    :                         (your guess, before coding)

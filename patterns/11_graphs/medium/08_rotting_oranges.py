@@ -1,6 +1,6 @@
 """
 PROBLEM    : Rotting Oranges
-LINK       : https://neetcode.io/problems/rotting-fruit/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 150 / 250   (Graphs #8)
 PATTERN    :                         (your guess, before coding)

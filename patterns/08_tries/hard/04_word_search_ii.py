@@ -1,6 +1,6 @@
 """
 PROBLEM    : Word Search II
-LINK       : https://neetcode.io/problems/search-for-word-ii/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 113 / 250   (Tries #4)
 PATTERN    :                         (your guess, before coding)

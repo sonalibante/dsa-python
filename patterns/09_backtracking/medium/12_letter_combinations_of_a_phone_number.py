@@ -1,6 +1,6 @@
 """
 PROBLEM    : Letter Combinations of a Phone Number
-LINK       : https://neetcode.io/problems/combinations-of-a-phone-number/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 125 / 250   (Backtracking #12)
 PATTERN    :                         (your guess, before coding)

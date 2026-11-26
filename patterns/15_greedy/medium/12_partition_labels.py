@@ -1,6 +1,6 @@
 """
 PROBLEM    : Partition Labels
-LINK       : https://neetcode.io/problems/partition-labels/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 218 / 250   (Greedy #12)
 PATTERN    :                         (your guess, before coding)

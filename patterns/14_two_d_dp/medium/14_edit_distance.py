@@ -1,6 +1,6 @@
 """
 PROBLEM    : Edit Distance
-LINK       : https://neetcode.io/problems/edit-distance/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 204 / 250   (2-D Dynamic Programming #14)
 PATTERN    :                         (your guess, before coding)

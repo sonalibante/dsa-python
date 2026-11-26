@@ -1,6 +1,6 @@
 """
 PROBLEM    : Majority Element
-LINK       : https://neetcode.io/problems/majority-element/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 008 / 250   (Arrays & Hashing #8)
 PATTERN    :                         (your guess, before coding)

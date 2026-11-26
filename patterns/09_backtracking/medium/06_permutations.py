@@ -1,6 +1,6 @@
 """
 PROBLEM    : Permutations
-LINK       : https://neetcode.io/problems/permutations/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 119 / 250   (Backtracking #6)
 PATTERN    :                         (your guess, before coding)

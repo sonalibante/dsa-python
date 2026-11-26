@@ -1,6 +1,6 @@
 """
 PROBLEM    : Greatest Common Divisor of Strings
-LINK       : https://neetcode.io/problems/greatest-common-divisor-of-strings/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 239 / 250   (Math & Geometry #2)
 PATTERN    :                         (your guess, before coding)

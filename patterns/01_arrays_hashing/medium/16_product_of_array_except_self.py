@@ -1,6 +1,6 @@
 """
 PROBLEM    : Product of Array Except Self
-LINK       : https://neetcode.io/problems/products-of-array-discluding-self/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 016 / 250   (Arrays & Hashing #16)
 PATTERN    :                         (your guess, before coding)

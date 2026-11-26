@@ -1,6 +1,6 @@
 """
 PROBLEM    : Invert Binary Tree
-LINK       : https://neetcode.io/problems/invert-a-binary-tree/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 090 / 250   (Trees #4)
 PATTERN    :                         (your guess, before coding)

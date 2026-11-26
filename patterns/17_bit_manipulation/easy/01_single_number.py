@@ -1,6 +1,6 @@
 """
 PROBLEM    : Single Number
-LINK       : https://neetcode.io/problems/single-number/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 228 / 250   (Bit Manipulation #1)
 PATTERN    :                         (your guess, before coding)

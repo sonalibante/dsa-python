@@ -1,6 +1,6 @@
 """
 PROBLEM    : Subarray Sum Equals K
-LINK       : https://neetcode.io/problems/subarray-sum-equals-k/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 021 / 250   (Arrays & Hashing #21)
 PATTERN    :                         (your guess, before coding)

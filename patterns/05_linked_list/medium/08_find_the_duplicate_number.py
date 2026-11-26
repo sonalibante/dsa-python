@@ -1,6 +1,6 @@
 """
 PROBLEM    : Find The Duplicate Number
-LINK       : https://neetcode.io/problems/find-duplicate-integer/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 066 / 250   (Linked List #8)
 PATTERN    :                         (your guess, before coding)

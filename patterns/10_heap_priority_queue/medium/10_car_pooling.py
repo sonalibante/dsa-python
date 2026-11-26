@@ -1,6 +1,6 @@
 """
 PROBLEM    : Car Pooling
-LINK       : https://neetcode.io/problems/car-pooling/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 140 / 250   (Heap / Priority Queue #10)
 PATTERN    :                         (your guess, before coding)

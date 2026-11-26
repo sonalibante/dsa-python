@@ -1,6 +1,6 @@
 """
 PROBLEM    : Time Based Key Value Store
-LINK       : https://neetcode.io/problems/time-based-key-value-store/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 055 / 250   (Binary Search #11)
 PATTERN    :                         (your guess, before coding)

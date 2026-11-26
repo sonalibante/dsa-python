@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Substring Without Repeating Characters
-LINK       : https://neetcode.io/problems/longest-substring-without-duplicates/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 038 / 250   (Sliding Window #3)
 PATTERN    :                         (your guess, before coding)

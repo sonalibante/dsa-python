@@ -1,6 +1,6 @@
 """
 PROBLEM    : Swim In Rising Water
-LINK       : https://neetcode.io/problems/swim-in-rising-water/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 168 / 250   (Advanced Graphs #5)
 PATTERN    :                         (your guess, before coding)

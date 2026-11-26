@@ -1,6 +1,6 @@
 """
 PROBLEM    : Same Tree
-LINK       : https://neetcode.io/problems/same-binary-tree/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 094 / 250   (Trees #8)
 PATTERN    :                         (your guess, before coding)

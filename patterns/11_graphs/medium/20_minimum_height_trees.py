@@ -1,6 +1,6 @@
 """
 PROBLEM    : Minimum Height Trees
-LINK       : https://neetcode.io/problems/minimum-height-trees/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 162 / 250   (Graphs #20)
 PATTERN    :                         (your guess, before coding)

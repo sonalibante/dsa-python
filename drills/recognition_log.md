@@ -3,8 +3,8 @@
 **Five minutes, once a day, separate from solving.**
 
 Open 10 problems you have never solved. Read only the statement. Write the
-pattern name and a one-line approach. **Do not code.** Check against NeetCode's
-category.
+pattern name and a one-line approach. **Do not code.** Check against the pattern
+folder the problem lives in.
 
 This trains the skill that actually fails in interviews — mapping an unseen
 statement to a known pattern — and it trains it roughly ten times faster than

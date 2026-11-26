@@ -1,6 +1,6 @@
 """
 PROBLEM    : Binary Tree Maximum Path Sum
-LINK       : https://neetcode.io/problems/binary-tree-maximum-path-sum/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 108 / 250   (Trees #22)
 PATTERN    :                         (your guess, before coding)

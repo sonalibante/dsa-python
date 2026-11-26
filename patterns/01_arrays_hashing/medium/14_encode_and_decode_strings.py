@@ -1,6 +1,6 @@
 """
 PROBLEM    : Encode and Decode Strings
-LINK       : https://neetcode.io/problems/string-encode-and-decode/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 014 / 250   (Arrays & Hashing #14)
 PATTERN    :                         (your guess, before coding)

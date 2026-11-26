@@ -1,6 +1,6 @@
 """
 PROBLEM    : Balanced Binary Tree
-LINK       : https://neetcode.io/problems/balanced-binary-tree/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 093 / 250   (Trees #7)
 PATTERN    :                         (your guess, before coding)

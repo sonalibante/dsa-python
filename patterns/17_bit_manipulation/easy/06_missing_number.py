@@ -1,6 +1,6 @@
 """
 PROBLEM    : Missing Number
-LINK       : https://neetcode.io/problems/missing-number/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 233 / 250   (Bit Manipulation #6)
 PATTERN    :                         (your guess, before coding)

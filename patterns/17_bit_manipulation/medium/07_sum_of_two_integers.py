@@ -1,6 +1,6 @@
 """
 PROBLEM    : Sum of Two Integers
-LINK       : https://neetcode.io/problems/sum-of-two-integers/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 234 / 250   (Bit Manipulation #7)
 PATTERN    :                         (your guess, before coding)

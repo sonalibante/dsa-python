@@ -1,6 +1,6 @@
 """
 PROBLEM    : Binary Tree Inorder Traversal
-LINK       : https://neetcode.io/problems/binary-tree-inorder-traversal/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 087 / 250   (Trees #1)
 PATTERN    :                         (your guess, before coding)

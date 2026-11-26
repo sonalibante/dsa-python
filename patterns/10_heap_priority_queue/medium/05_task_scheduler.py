@@ -1,6 +1,6 @@
 """
 PROBLEM    : Task Scheduler
-LINK       : https://neetcode.io/problems/task-scheduling/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 135 / 250   (Heap / Priority Queue #5)
 PATTERN    :                         (your guess, before coding)

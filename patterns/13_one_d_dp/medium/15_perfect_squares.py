@@ -1,6 +1,6 @@
 """
 PROBLEM    : Perfect Squares
-LINK       : https://neetcode.io/problems/perfect-squares/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 188 / 250   (1-D Dynamic Programming #15)
 PATTERN    :                         (your guess, before coding)

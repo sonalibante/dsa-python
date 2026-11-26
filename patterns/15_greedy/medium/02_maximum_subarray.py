@@ -1,6 +1,6 @@
 """
 PROBLEM    : Maximum Subarray
-LINK       : https://neetcode.io/problems/maximum-subarray/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 208 / 250   (Greedy #2)
 PATTERN    :                         (your guess, before coding)

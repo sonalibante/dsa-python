@@ -1,6 +1,6 @@
 """
 PROBLEM    : Sqrt(x)
-LINK       : https://neetcode.io/problems/sqrtx/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 048 / 250   (Binary Search #4)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Sum of All Subsets XOR Total
-LINK       : https://neetcode.io/problems/sum-of-all-subset-xor-totals/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 114 / 250   (Backtracking #1)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Distinct Subsequences
-LINK       : https://neetcode.io/problems/count-subsequences/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 203 / 250   (2-D Dynamic Programming #13)
 PATTERN    :                         (your guess, before coding)

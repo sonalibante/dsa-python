@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Turbulent Subarray
-LINK       : https://neetcode.io/problems/longest-turbulent-subarray/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 210 / 250   (Greedy #4)
 PATTERN    :                         (your guess, before coding)

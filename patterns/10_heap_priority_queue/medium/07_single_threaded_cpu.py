@@ -1,6 +1,6 @@
 """
 PROBLEM    : Single Threaded CPU
-LINK       : https://neetcode.io/problems/single-threaded-cpu/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 137 / 250   (Heap / Priority Queue #7)
 PATTERN    :                         (your guess, before coding)

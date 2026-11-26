@@ -1,6 +1,6 @@
 """
 PROBLEM    : Insert Interval
-LINK       : https://neetcode.io/problems/insert-new-interval/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 221 / 250   (Intervals #1)
 PATTERN    :                         (your guess, before coding)

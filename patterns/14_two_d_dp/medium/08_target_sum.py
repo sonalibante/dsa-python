@@ -1,6 +1,6 @@
 """
 PROBLEM    : Target Sum
-LINK       : https://neetcode.io/problems/target-sum/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 198 / 250   (2-D Dynamic Programming #8)
 PATTERN    :                         (your guess, before coding)

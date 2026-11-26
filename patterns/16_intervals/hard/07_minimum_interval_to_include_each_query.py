@@ -1,6 +1,6 @@
 """
 PROBLEM    : Minimum Interval to Include Each Query
-LINK       : https://neetcode.io/problems/minimum-interval-including-query/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 227 / 250   (Intervals #7)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Palindromic Substring
-LINK       : https://neetcode.io/problems/longest-palindromic-substring/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 179 / 250   (1-D Dynamic Programming #6)
 PATTERN    :                         (your guess, before coding)

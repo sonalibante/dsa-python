@@ -1,6 +1,6 @@
 """
 PROBLEM    : Partition Equal Subset Sum
-LINK       : https://neetcode.io/problems/partition-equal-subset-sum/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 186 / 250   (1-D Dynamic Programming #13)
 PATTERN    :                         (your guess, before coding)

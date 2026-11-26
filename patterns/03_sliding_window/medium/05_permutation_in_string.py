@@ -1,6 +1,6 @@
 """
 PROBLEM    : Permutation In String
-LINK       : https://neetcode.io/problems/permutation-string/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 040 / 250   (Sliding Window #5)
 PATTERN    :                         (your guess, before coding)

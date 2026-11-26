@@ -1,6 +1,6 @@
 """
 PROBLEM    : Pow(x, n)
-LINK       : https://neetcode.io/problems/pow-x-n/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 248 / 250   (Math & Geometry #11)
 PATTERN    :                         (your guess, before coding)

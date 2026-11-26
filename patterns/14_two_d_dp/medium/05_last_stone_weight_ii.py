@@ -1,6 +1,6 @@
 """
 PROBLEM    : Last Stone Weight II
-LINK       : https://neetcode.io/problems/last-stone-weight-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 195 / 250   (2-D Dynamic Programming #5)
 PATTERN    :                         (your guess, before coding)

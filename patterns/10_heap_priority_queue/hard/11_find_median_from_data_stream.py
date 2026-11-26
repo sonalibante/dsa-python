@@ -1,6 +1,6 @@
 """
 PROBLEM    : Find Median From Data Stream
-LINK       : https://neetcode.io/problems/find-median-in-a-data-stream/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 141 / 250   (Heap / Priority Queue #11)
 PATTERN    :                         (your guess, before coding)

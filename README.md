@@ -1,14 +1,13 @@
-# DSA in Python — NeetCode 250
+# DSA in Python — Sonali's practice
 
 Two tracks in one repo:
 
-1. **`data_structures/`** — the CodeWithNishchal roadmap. For each data
+1. **`data_structures/`** — data structures from the ground up. For each data
    structure, implement every operation yourself in `operations/` and keep a
    short-notes file in `data_structures/short_notes/`. Roadmap order:
    Array → String → Hashing → Stack → Queue → Linked List → Tree, then Heap,
    Trie, Graph.
-2. **`patterns/`** — the NeetCode 250 list, in the same order and grouping as
-   [neetcode.io](https://neetcode.io/practice/practice/neetcode250). Every
+2. **`patterns/`** — 250 problems grouped by the pattern they teach. Every
    problem file already exists. Solve them in the order of
    [SEQUENCE.md](SEQUENCE.md).
 
@@ -22,8 +21,8 @@ tracked separately.
 Timeboxes: **easy 15 min · medium 25 min · hard 35 min.**
 
 1. Open the next unticked problem in `SEQUENCE.md`. Its file is already in
-   `patterns/<pattern>/<easy|medium|hard>/`. Paste the statement from the
-   NeetCode link into `STATEMENT`. **Leave `PATTERN` blank.**
+   `patterns/<pattern>/<easy|medium|hard>/`. Fill in `LINK` and paste the
+   problem statement into `STATEMENT`. **Leave `PATTERN` blank.**
 2. Start the timer. Read the statement.
 3. Before writing any code, fill `TRIGGER`, `PATTERN` (a guess), and `APPROACH`
    in plain English. **Stop T1 here.**
@@ -114,18 +113,20 @@ _Regenerated weekly by `tools/gen_readme.py`._
 ## Repo map
 
 ```
-data_structures/              Nishchal roadmap track
+data_structures/              data-structures track
   short_notes/                one notes file per data structure
   01_array/operations/        one file per operation, implement yourself
   ... 10_graph/operations/
+  patterns/sorting_algos/     one file per sorting algorithm
+  patterns/searching_algos/   one file per searching algorithm
   operation_template.py       copy for any extra operation
-patterns/                     NeetCode 250, one folder per pattern
+patterns/                     250 problems, one folder per pattern
   01_arrays_hashing/
     easy/ medium/ hard/       <nn>_<title>.py, nn = order within the pattern
 SEQUENCE.md                   all 250 problems in solve order, with checkboxes
 drills/                       recognition drill log, weekly cold sessions
 tools/                        gen_readme.py, due_today.py
-template.py                   for problems outside the NeetCode 250
+template.py                   for extra problems outside the 250
 log.csv                       one row per attempt, append-only
 TRIGGERS.md                   statement signal -> pattern lookup table
 ```

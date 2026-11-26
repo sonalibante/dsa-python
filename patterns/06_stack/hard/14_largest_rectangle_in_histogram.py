@@ -1,6 +1,6 @@
 """
 PROBLEM    : Largest Rectangle In Histogram
-LINK       : https://neetcode.io/problems/largest-rectangle-in-histogram/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 086 / 250   (Stack #14)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Minimum Size Subarray Sum
-LINK       : https://neetcode.io/problems/minimum-size-subarray-sum/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 041 / 250   (Sliding Window #6)
 PATTERN    :                         (your guess, before coding)

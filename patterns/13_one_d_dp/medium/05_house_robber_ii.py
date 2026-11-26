@@ -1,6 +1,6 @@
 """
 PROBLEM    : House Robber II
-LINK       : https://neetcode.io/problems/house-robber-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 178 / 250   (1-D Dynamic Programming #5)
 PATTERN    :                         (your guess, before coding)

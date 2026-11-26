@@ -1,6 +1,6 @@
 """
 PROBLEM    : Two Sum
-LINK       : https://neetcode.io/problems/two-integer-sum/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 004 / 250   (Arrays & Hashing #4)
 PATTERN    :                         (your guess, before coding)

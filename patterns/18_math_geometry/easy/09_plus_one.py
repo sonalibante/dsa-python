@@ -1,6 +1,6 @@
 """
 PROBLEM    : Plus One
-LINK       : https://neetcode.io/problems/plus-one/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 246 / 250   (Math & Geometry #9)
 PATTERN    :                         (your guess, before coding)

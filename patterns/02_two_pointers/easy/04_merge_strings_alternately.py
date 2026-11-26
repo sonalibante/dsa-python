@@ -1,6 +1,6 @@
 """
 PROBLEM    : Merge Strings Alternately
-LINK       : https://neetcode.io/problems/merge-strings-alternately/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 026 / 250   (Two Pointers #4)
 PATTERN    :                         (your guess, before coding)

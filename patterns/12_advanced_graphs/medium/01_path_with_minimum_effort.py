@@ -1,6 +1,6 @@
 """
 PROBLEM    : Path with Minimum Effort
-LINK       : https://neetcode.io/problems/path-with-minimum-effort/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 164 / 250   (Advanced Graphs #1)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Merge Intervals
-LINK       : https://neetcode.io/problems/merge-intervals/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 222 / 250   (Intervals #2)
 PATTERN    :                         (your guess, before coding)

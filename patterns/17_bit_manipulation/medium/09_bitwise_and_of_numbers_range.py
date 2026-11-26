@@ -1,6 +1,6 @@
 """
 PROBLEM    : Bitwise AND of Numbers Range
-LINK       : https://neetcode.io/problems/bitwise-and-of-numbers-range/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 236 / 250   (Bit Manipulation #9)
 PATTERN    :                         (your guess, before coding)

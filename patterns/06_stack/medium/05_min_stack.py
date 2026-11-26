@@ -1,6 +1,6 @@
 """
 PROBLEM    : Min Stack
-LINK       : https://neetcode.io/problems/minimum-stack/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 077 / 250   (Stack #5)
 PATTERN    :                         (your guess, before coding)

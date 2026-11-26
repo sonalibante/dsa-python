@@ -1,6 +1,6 @@
 """
 PROBLEM    : Stone Game III
-LINK       : https://neetcode.io/problems/stone-game-iii/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 190 / 250   (1-D Dynamic Programming #17)
 PATTERN    :                         (your guess, before coding)

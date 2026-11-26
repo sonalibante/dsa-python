@@ -1,6 +1,6 @@
 """
 PROBLEM    : IPO
-LINK       : https://neetcode.io/problems/ipo/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 142 / 250   (Heap / Priority Queue #12)
 PATTERN    :                         (your guess, before coding)

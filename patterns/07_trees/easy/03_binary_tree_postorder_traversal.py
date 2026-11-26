@@ -1,6 +1,6 @@
 """
 PROBLEM    : Binary Tree Postorder Traversal
-LINK       : https://neetcode.io/problems/binary-tree-postorder-traversal/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 089 / 250   (Trees #3)
 PATTERN    :                         (your guess, before coding)

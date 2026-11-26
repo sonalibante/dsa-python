@@ -1,6 +1,6 @@
 """
 PROBLEM    : LFU Cache
-LINK       : https://neetcode.io/problems/lfu-cache/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 070 / 250   (Linked List #12)
 PATTERN    :                         (your guess, before coding)

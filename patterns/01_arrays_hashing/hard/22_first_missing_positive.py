@@ -1,6 +1,6 @@
 """
 PROBLEM    : First Missing Positive
-LINK       : https://neetcode.io/problems/first-missing-positive/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 022 / 250   (Arrays & Hashing #22)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Climbing Stairs
-LINK       : https://neetcode.io/problems/climbing-stairs/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 174 / 250   (1-D Dynamic Programming #1)
 PATTERN    :                         (your guess, before coding)

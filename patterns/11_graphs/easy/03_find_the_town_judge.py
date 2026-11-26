@@ -1,6 +1,6 @@
 """
 PROBLEM    : Find the Town Judge
-LINK       : https://neetcode.io/problems/find-the-town-judge/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 145 / 250   (Graphs #3)
 PATTERN    :                         (your guess, before coding)

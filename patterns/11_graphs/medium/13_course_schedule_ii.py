@@ -1,6 +1,6 @@
 """
 PROBLEM    : Course Schedule II
-LINK       : https://neetcode.io/problems/course-schedule-ii/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 155 / 250   (Graphs #13)
 PATTERN    :                         (your guess, before coding)

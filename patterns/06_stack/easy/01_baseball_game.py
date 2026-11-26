@@ -1,6 +1,6 @@
 """
 PROBLEM    : Baseball Game
-LINK       : https://neetcode.io/problems/baseball-game/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 073 / 250   (Stack #1)
 PATTERN    :                         (your guess, before coding)

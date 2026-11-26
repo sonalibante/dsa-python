@@ -1,6 +1,6 @@
 """
 PROBLEM    : Number of Islands
-LINK       : https://neetcode.io/problems/count-number-of-islands/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 146 / 250   (Graphs #4)
 PATTERN    :                         (your guess, before coding)

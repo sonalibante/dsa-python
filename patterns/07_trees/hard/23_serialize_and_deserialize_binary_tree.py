@@ -1,6 +1,6 @@
 """
 PROBLEM    : Serialize And Deserialize Binary Tree
-LINK       : https://neetcode.io/problems/serialize-and-deserialize-binary-tree/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 109 / 250   (Trees #23)
 PATTERN    :                         (your guess, before coding)

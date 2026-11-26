@@ -1,6 +1,6 @@
 """
 PROBLEM    : Asteroid Collision
-LINK       : https://neetcode.io/problems/asteroid-collision/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 079 / 250   (Stack #7)
 PATTERN    :                         (your guess, before coding)

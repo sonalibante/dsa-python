@@ -1,6 +1,6 @@
 """
 PROBLEM    : Top K Frequent Elements
-LINK       : https://neetcode.io/problems/top-k-elements-in-list/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 013 / 250   (Arrays & Hashing #13)
 PATTERN    :                         (your guess, before coding)

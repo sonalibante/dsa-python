@@ -1,6 +1,6 @@
 """
 PROBLEM    : Group Anagrams
-LINK       : https://neetcode.io/problems/anagram-groups/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 006 / 250   (Arrays & Hashing #6)
 PATTERN    :                         (your guess, before coding)

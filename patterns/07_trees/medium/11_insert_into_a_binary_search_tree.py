@@ -1,6 +1,6 @@
 """
 PROBLEM    : Insert into a Binary Search Tree
-LINK       : https://neetcode.io/problems/insert-into-a-binary-search-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 097 / 250   (Trees #11)
 PATTERN    :                         (your guess, before coding)

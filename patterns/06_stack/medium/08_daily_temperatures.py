@@ -1,6 +1,6 @@
 """
 PROBLEM    : Daily Temperatures
-LINK       : https://neetcode.io/problems/daily-temperatures/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 080 / 250   (Stack #8)
 PATTERN    :                         (your guess, before coding)

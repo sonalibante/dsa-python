@@ -1,6 +1,6 @@
 """
 PROBLEM    : Word Break II
-LINK       : https://neetcode.io/problems/word-break-ii/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 130 / 250   (Backtracking #17)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Extra Characters in a String
-LINK       : https://neetcode.io/problems/extra-characters-in-a-string/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 112 / 250   (Tries #3)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Happy Number
-LINK       : https://neetcode.io/problems/non-cyclical-number/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 245 / 250   (Math & Geometry #8)
 PATTERN    :                         (your guess, before coding)

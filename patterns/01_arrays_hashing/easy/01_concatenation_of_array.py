@@ -1,6 +1,6 @@
 """
 PROBLEM    : Concatenation of Array
-LINK       : https://neetcode.io/problems/concatenation-of-array/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 001 / 250   (Arrays & Hashing #1)
 PATTERN    :                         (your guess, before coding)

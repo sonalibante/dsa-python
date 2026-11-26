@@ -1,6 +1,6 @@
 """
 PROBLEM    : Decode Ways
-LINK       : https://neetcode.io/problems/decode-ways/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 181 / 250   (1-D Dynamic Programming #8)
 PATTERN    :                         (your guess, before coding)

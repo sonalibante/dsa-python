@@ -1,6 +1,6 @@
 """
 PROBLEM    : Open The Lock
-LINK       : https://neetcode.io/problems/open-the-lock/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 153 / 250   (Graphs #11)
 PATTERN    :                         (your guess, before coding)

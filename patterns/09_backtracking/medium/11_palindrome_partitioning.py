@@ -1,6 +1,6 @@
 """
 PROBLEM    : Palindrome Partitioning
-LINK       : https://neetcode.io/problems/palindrome-partitioning/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 124 / 250   (Backtracking #11)
 PATTERN    :                         (your guess, before coding)

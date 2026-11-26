@@ -1,6 +1,6 @@
 """
 PROBLEM    : Min Cost Climbing Stairs
-LINK       : https://neetcode.io/problems/min-cost-climbing-stairs/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 175 / 250   (1-D Dynamic Programming #2)
 PATTERN    :                         (your guess, before coding)

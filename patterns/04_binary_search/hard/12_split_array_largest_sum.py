@@ -1,6 +1,6 @@
 """
 PROBLEM    : Split Array Largest Sum
-LINK       : https://neetcode.io/problems/split-array-largest-sum/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 056 / 250   (Binary Search #12)
 PATTERN    :                         (your guess, before coding)

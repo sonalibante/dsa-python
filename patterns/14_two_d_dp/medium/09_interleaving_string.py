@@ -1,6 +1,6 @@
 """
 PROBLEM    : Interleaving String
-LINK       : https://neetcode.io/problems/interleaving-string/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 199 / 250   (2-D Dynamic Programming #9)
 PATTERN    :                         (your guess, before coding)

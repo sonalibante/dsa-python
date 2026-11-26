@@ -1,6 +1,6 @@
 """
 PROBLEM    : Count Good Nodes In Binary Tree
-LINK       : https://neetcode.io/problems/count-good-nodes-in-binary-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 102 / 250   (Trees #16)
 PATTERN    :                         (your guess, before coding)

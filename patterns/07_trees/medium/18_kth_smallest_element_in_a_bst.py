@@ -1,6 +1,6 @@
 """
 PROBLEM    : Kth Smallest Element In a Bst
-LINK       : https://neetcode.io/problems/kth-smallest-integer-in-bst/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 104 / 250   (Trees #18)
 PATTERN    :                         (your guess, before coding)

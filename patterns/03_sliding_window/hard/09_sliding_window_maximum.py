@@ -1,6 +1,6 @@
 """
 PROBLEM    : Sliding Window Maximum
-LINK       : https://neetcode.io/problems/sliding-window-maximum/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 044 / 250   (Sliding Window #9)
 PATTERN    :                         (your guess, before coding)

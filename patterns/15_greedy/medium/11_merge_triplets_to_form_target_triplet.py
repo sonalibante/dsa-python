@@ -1,6 +1,6 @@
 """
 PROBLEM    : Merge Triplets to Form Target Triplet
-LINK       : https://neetcode.io/problems/merge-triplets-to-form-target/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 217 / 250   (Greedy #11)
 PATTERN    :                         (your guess, before coding)

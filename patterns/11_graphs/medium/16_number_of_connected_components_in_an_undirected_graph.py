@@ -1,6 +1,6 @@
 """
 PROBLEM    : Number of Connected Components In An Undirected Graph
-LINK       : https://neetcode.io/problems/count-connected-components/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 158 / 250   (Graphs #16)
 PATTERN    :                         (your guess, before coding)

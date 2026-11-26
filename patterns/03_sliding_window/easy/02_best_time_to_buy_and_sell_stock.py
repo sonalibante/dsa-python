@@ -1,6 +1,6 @@
 """
 PROBLEM    : Best Time to Buy And Sell Stock
-LINK       : https://neetcode.io/problems/buy-and-sell-crypto/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 037 / 250   (Sliding Window #2)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Lemonade Change
-LINK       : https://neetcode.io/problems/lemonade-change/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 207 / 250   (Greedy #1)
 PATTERN    :                         (your guess, before coding)

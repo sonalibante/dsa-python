@@ -1,6 +1,6 @@
 """
 PROBLEM    : N-th Tribonacci Number
-LINK       : https://neetcode.io/problems/n-th-tribonacci-number/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 176 / 250   (1-D Dynamic Programming #3)
 PATTERN    :                         (your guess, before coding)

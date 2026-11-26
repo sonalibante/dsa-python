@@ -1,6 +1,6 @@
 """
 PROBLEM    : Merge Sorted Array
-LINK       : https://neetcode.io/problems/merge-sorted-array/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 027 / 250   (Two Pointers #5)
 PATTERN    :                         (your guess, before coding)

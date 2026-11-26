@@ -1,6 +1,6 @@
 """
 PROBLEM    : Binary Tree Level Order Traversal
-LINK       : https://neetcode.io/problems/level-order-traversal-of-binary-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 099 / 250   (Trees #13)
 PATTERN    :                         (your guess, before coding)

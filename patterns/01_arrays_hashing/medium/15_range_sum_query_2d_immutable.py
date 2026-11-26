@@ -1,6 +1,6 @@
 """
 PROBLEM    : Range Sum Query 2D Immutable
-LINK       : https://neetcode.io/problems/range-sum-query-2d-immutable/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 015 / 250   (Arrays & Hashing #15)
 PATTERN    :                         (your guess, before coding)

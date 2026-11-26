@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reverse Linked List
-LINK       : https://neetcode.io/problems/reverse-a-linked-list/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 059 / 250   (Linked List #1)
 PATTERN    :                         (your guess, before coding)

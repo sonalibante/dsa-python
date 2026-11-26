@@ -1,6 +1,6 @@
 """
 PROBLEM    : LRU Cache
-LINK       : https://neetcode.io/problems/lru-cache/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 069 / 250   (Linked List #11)
 PATTERN    :                         (your guess, before coding)

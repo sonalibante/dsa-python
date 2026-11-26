@@ -1,6 +1,6 @@
 """
 PROBLEM    : Construct Quad Tree
-LINK       : https://neetcode.io/problems/construct-quad-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 101 / 250   (Trees #15)
 PATTERN    :                         (your guess, before coding)

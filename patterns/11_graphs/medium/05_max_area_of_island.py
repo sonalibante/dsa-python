@@ -1,6 +1,6 @@
 """
 PROBLEM    : Max Area of Island
-LINK       : https://neetcode.io/problems/max-area-of-island/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 147 / 250   (Graphs #5)
 PATTERN    :                         (your guess, before coding)

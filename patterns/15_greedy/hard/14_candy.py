@@ -1,6 +1,6 @@
 """
 PROBLEM    : Candy
-LINK       : https://neetcode.io/problems/candy/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 220 / 250   (Greedy #14)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Contains Duplicate
-LINK       : https://neetcode.io/problems/duplicate-integer/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 002 / 250   (Arrays & Hashing #2)
 PATTERN    :                         (your guess, before coding)

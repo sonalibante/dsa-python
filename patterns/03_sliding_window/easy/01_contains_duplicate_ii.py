@@ -1,6 +1,6 @@
 """
 PROBLEM    : Contains Duplicate II
-LINK       : https://neetcode.io/problems/contains-duplicate-ii/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 036 / 250   (Sliding Window #1)
 PATTERN    :                         (your guess, before coding)

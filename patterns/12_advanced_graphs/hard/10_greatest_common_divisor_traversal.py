@@ -1,6 +1,6 @@
 """
 PROBLEM    : Greatest Common Divisor Traversal
-LINK       : https://neetcode.io/problems/greatest-common-divisor-traversal/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 173 / 250   (Advanced Graphs #10)
 PATTERN    :                         (your guess, before coding)

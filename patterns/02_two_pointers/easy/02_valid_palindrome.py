@@ -1,6 +1,6 @@
 """
 PROBLEM    : Valid Palindrome
-LINK       : https://neetcode.io/problems/is-palindrome/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 024 / 250   (Two Pointers #2)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Non Overlapping Intervals
-LINK       : https://neetcode.io/problems/non-overlapping-intervals/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 223 / 250   (Intervals #3)
 PATTERN    :                         (your guess, before coding)

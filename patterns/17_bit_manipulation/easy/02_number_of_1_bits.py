@@ -1,6 +1,6 @@
 """
 PROBLEM    : Number of 1 Bits
-LINK       : https://neetcode.io/problems/number-of-one-bits/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 229 / 250   (Bit Manipulation #2)
 PATTERN    :                         (your guess, before coding)

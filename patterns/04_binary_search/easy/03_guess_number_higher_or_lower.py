@@ -1,6 +1,6 @@
 """
 PROBLEM    : Guess Number Higher Or Lower
-LINK       : https://neetcode.io/problems/guess-number-higher-or-lower/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 047 / 250   (Binary Search #3)
 PATTERN    :                         (your guess, before coding)

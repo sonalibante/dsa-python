@@ -1,6 +1,6 @@
 """
 PROBLEM    : Car Fleet
-LINK       : https://neetcode.io/problems/car-fleet/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 082 / 250   (Stack #10)
 PATTERN    :                         (your guess, before coding)

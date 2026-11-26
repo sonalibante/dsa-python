@@ -1,6 +1,6 @@
 """
 PROBLEM    : Set Matrix Zeroes
-LINK       : https://neetcode.io/problems/set-zeroes-in-matrix/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 244 / 250   (Math & Geometry #7)
 PATTERN    :                         (your guess, before coding)

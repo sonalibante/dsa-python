@@ -1,6 +1,6 @@
 """
 PROBLEM    : Rotate Array
-LINK       : https://neetcode.io/problems/rotate-array/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 032 / 250   (Two Pointers #10)
 PATTERN    :                         (your guess, before coding)

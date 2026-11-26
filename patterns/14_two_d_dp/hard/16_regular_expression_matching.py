@@ -1,6 +1,6 @@
 """
 PROBLEM    : Regular Expression Matching
-LINK       : https://neetcode.io/problems/regular-expression-matching/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 206 / 250   (2-D Dynamic Programming #16)
 PATTERN    :                         (your guess, before coding)

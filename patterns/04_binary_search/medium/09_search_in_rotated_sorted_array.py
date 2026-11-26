@@ -1,6 +1,6 @@
 """
 PROBLEM    : Search In Rotated Sorted Array
-LINK       : https://neetcode.io/problems/find-target-in-rotated-sorted-array/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 053 / 250   (Binary Search #9)
 PATTERN    :                         (your guess, before coding)

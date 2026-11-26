@@ -1,6 +1,6 @@
 """
 PROBLEM    : Island Perimeter
-LINK       : https://neetcode.io/problems/island-perimeter/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 143 / 250   (Graphs #1)
 PATTERN    :                         (your guess, before coding)

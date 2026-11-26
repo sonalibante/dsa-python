@@ -1,6 +1,6 @@
 """
 PROBLEM    : Stone Game
-LINK       : https://neetcode.io/problems/stone-game/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 200 / 250   (2-D Dynamic Programming #10)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reconstruct Itinerary
-LINK       : https://neetcode.io/problems/reconstruct-flight-path/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 166 / 250   (Advanced Graphs #3)
 PATTERN    :                         (your guess, before coding)

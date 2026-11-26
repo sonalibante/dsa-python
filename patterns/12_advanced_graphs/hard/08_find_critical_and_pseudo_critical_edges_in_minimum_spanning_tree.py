@@ -1,6 +1,6 @@
 """
 PROBLEM    : Find Critical and Pseudo Critical Edges in Minimum Spanning Tree
-LINK       : https://neetcode.io/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 171 / 250   (Advanced Graphs #8)
 PATTERN    :                         (your guess, before coding)

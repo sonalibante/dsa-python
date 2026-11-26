@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reverse String
-LINK       : https://neetcode.io/problems/reverse-string/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 023 / 250   (Two Pointers #1)
 PATTERN    :                         (your guess, before coding)

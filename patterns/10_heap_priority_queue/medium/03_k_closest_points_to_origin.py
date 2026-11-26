@@ -1,6 +1,6 @@
 """
 PROBLEM    : K Closest Points to Origin
-LINK       : https://neetcode.io/problems/k-closest-points-to-origin/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 133 / 250   (Heap / Priority Queue #3)
 PATTERN    :                         (your guess, before coding)

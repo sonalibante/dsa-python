@@ -1,6 +1,6 @@
 """
 PROBLEM    : Delete Leaves With a Given Value
-LINK       : https://neetcode.io/problems/delete-leaves-with-a-given-value/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 107 / 250   (Trees #21)
 PATTERN    :                         (your guess, before coding)

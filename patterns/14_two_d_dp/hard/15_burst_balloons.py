@@ -1,6 +1,6 @@
 """
 PROBLEM    : Burst Balloons
-LINK       : https://neetcode.io/problems/burst-balloons/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 205 / 250   (2-D Dynamic Programming #15)
 PATTERN    :                         (your guess, before coding)

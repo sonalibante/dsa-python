@@ -1,6 +1,6 @@
 """
 PROBLEM    : Design HashSet
-LINK       : https://neetcode.io/problems/design-hashset/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 009 / 250   (Arrays & Hashing #9)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Build a Matrix With Conditions
-LINK       : https://neetcode.io/problems/build-a-matrix-with-conditions/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 172 / 250   (Advanced Graphs #9)
 PATTERN    :                         (your guess, before coding)

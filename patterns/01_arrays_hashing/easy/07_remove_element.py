@@ -1,6 +1,6 @@
 """
 PROBLEM    : Remove Element
-LINK       : https://neetcode.io/problems/remove-element/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 007 / 250   (Arrays & Hashing #7)
 PATTERN    :                         (your guess, before coding)

@@ -1,6 +1,6 @@
 """
 PROBLEM    : Binary Tree Right Side View
-LINK       : https://neetcode.io/problems/binary-tree-right-side-view/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 100 / 250   (Trees #14)
 PATTERN    :                         (your guess, before coding)

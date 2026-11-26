@@ -1,6 +1,6 @@
 """
 PROBLEM    : Copy List With Random Pointer
-LINK       : https://neetcode.io/problems/copy-linked-list-with-random-pointer/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 064 / 250   (Linked List #6)
 PATTERN    :                         (your guess, before coding)

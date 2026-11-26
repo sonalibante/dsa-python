@@ -1,6 +1,6 @@
 """
 PROBLEM    : Insert Greatest Common Divisors in Linked List
-LINK       : https://neetcode.io/problems/insert-greatest-common-divisors-in-linked-list/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 240 / 250   (Math & Geometry #3)
 PATTERN    :                         (your guess, before coding)

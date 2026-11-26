@@ -1,6 +1,6 @@
 """
 PROBLEM    : Gas Station
-LINK       : https://neetcode.io/problems/gas-station/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 214 / 250   (Greedy #8)
 PATTERN    :                         (your guess, before coding)

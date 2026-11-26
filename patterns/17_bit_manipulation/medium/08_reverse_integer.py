@@ -1,6 +1,6 @@
 """
 PROBLEM    : Reverse Integer
-LINK       : https://neetcode.io/problems/reverse-integer/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 235 / 250   (Bit Manipulation #8)
 PATTERN    :                         (your guess, before coding)

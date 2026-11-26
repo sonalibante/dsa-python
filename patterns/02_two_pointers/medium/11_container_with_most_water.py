@@ -1,6 +1,6 @@
 """
 PROBLEM    : Container With Most Water
-LINK       : https://neetcode.io/problems/max-water-container/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 033 / 250   (Two Pointers #11)
 PATTERN    :                         (your guess, before coding)

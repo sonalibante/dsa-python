@@ -1,6 +1,6 @@
 """
 PROBLEM    : Find Minimum In Rotated Sorted Array
-LINK       : https://neetcode.io/problems/find-minimum-in-rotated-sorted-array/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 052 / 250   (Binary Search #8)
 PATTERN    :                         (your guess, before coding)

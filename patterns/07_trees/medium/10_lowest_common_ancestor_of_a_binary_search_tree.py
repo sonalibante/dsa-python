@@ -1,6 +1,6 @@
 """
 PROBLEM    : Lowest Common Ancestor of a Binary Search Tree
-LINK       : https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 096 / 250   (Trees #10)
 PATTERN    :                         (your guess, before coding)

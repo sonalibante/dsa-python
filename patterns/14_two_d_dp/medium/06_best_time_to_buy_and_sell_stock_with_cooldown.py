@@ -1,6 +1,6 @@
 """
 PROBLEM    : Best Time to Buy And Sell Stock With Cooldown
-LINK       : https://neetcode.io/problems/buy-and-sell-crypto-with-cooldown/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 196 / 250   (2-D Dynamic Programming #6)
 PATTERN    :                         (your guess, before coding)

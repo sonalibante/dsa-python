@@ -1,6 +1,6 @@
 """
 PROBLEM    : Roman to Integer
-LINK       : https://neetcode.io/problems/roman-to-integer/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 247 / 250   (Math & Geometry #10)
 PATTERN    :                         (your guess, before coding)

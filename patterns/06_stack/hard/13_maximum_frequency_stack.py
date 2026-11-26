@@ -1,6 +1,6 @@
 """
 PROBLEM    : Maximum Frequency Stack
-LINK       : https://neetcode.io/problems/maximum-frequency-stack/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 085 / 250   (Stack #13)
 PATTERN    :                         (your guess, before coding)

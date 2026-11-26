@@ -2,7 +2,7 @@
 PROBLEM    : <title>
 LINK       : 
 DIFFICULTY : Easy / Medium / Hard
-SEQUENCE   : (outside NeetCode 250)
+SEQUENCE   : (extra problem)
 PATTERN    :                         (your guess, before coding)
 
 STATEMENT  :

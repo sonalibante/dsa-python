@@ -1,6 +1,6 @@
 """
 PROBLEM    : Kth Largest Element In An Array
-LINK       : https://neetcode.io/problems/kth-largest-element-in-an-array/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 134 / 250   (Heap / Priority Queue #4)
 PATTERN    :                         (your guess, before coding)

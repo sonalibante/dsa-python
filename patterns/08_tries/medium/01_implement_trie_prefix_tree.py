@@ -1,6 +1,6 @@
 """
 PROBLEM    : Implement Trie Prefix Tree
-LINK       : https://neetcode.io/problems/implement-prefix-tree/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 110 / 250   (Tries #1)
 PATTERN    :                         (your guess, before coding)

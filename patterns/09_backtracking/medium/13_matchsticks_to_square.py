@@ -1,6 +1,6 @@
 """
 PROBLEM    : Matchsticks to Square
-LINK       : https://neetcode.io/problems/matchsticks-to-square/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 126 / 250   (Backtracking #13)
 PATTERN    :                         (your guess, before coding)

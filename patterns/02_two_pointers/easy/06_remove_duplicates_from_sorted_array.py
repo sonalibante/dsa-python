@@ -1,6 +1,6 @@
 """
 PROBLEM    : Remove Duplicates From Sorted Array
-LINK       : https://neetcode.io/problems/remove-duplicates-from-sorted-array/question
+LINK       :
 DIFFICULTY : Easy
 SEQUENCE   : 028 / 250   (Two Pointers #6)
 PATTERN    :                         (your guess, before coding)

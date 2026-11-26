@@ -1,6 +1,6 @@
 """
 PROBLEM    : Redundant Connection
-LINK       : https://neetcode.io/problems/redundant-connection/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 159 / 250   (Graphs #17)
 PATTERN    :                         (your guess, before coding)

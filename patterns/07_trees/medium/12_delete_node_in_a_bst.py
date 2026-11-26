@@ -1,6 +1,6 @@
 """
 PROBLEM    : Delete Node in a BST
-LINK       : https://neetcode.io/problems/delete-node-in-a-bst/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 098 / 250   (Trees #12)
 PATTERN    :                         (your guess, before coding)

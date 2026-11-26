@@ -1,6 +1,6 @@
 """
 PROBLEM    : 4Sum
-LINK       : https://neetcode.io/problems/4sum/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 031 / 250   (Two Pointers #9)
 PATTERN    :                         (your guess, before coding)

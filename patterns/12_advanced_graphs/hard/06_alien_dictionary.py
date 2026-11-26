@@ -1,6 +1,6 @@
 """
 PROBLEM    : Alien Dictionary
-LINK       : https://neetcode.io/problems/foreign-dictionary/question
+LINK       :
 DIFFICULTY : Hard
 SEQUENCE   : 169 / 250   (Advanced Graphs #6)
 PATTERN    :                         (your guess, before coding)

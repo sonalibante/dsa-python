@@ -1,6 +1,6 @@
 """
 PROBLEM    : Longest Increasing Subsequence
-LINK       : https://neetcode.io/problems/longest-increasing-subsequence/question
+LINK       :
 DIFFICULTY : Medium
 SEQUENCE   : 185 / 250   (1-D Dynamic Programming #12)
 PATTERN    :                         (your guess, before coding)
